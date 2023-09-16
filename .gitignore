@@ -1,0 +1,11 @@
+models/
+*.pdf
+*.jsoncached
+*__pycache__/
+*idea/
+.pytest_cache/
+venv/
+packages/
+tmp/
+dist/
+*.egg-info/
